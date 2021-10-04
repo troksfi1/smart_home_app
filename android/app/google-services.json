@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "828339971453",
+    "firebase_url": "https://photovoltaicssystem-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "photovoltaicssystem",
+    "storage_bucket": "photovoltaicssystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828339971453:android:f618e538f4c6b437541814",
+        "android_client_info": {
+          "package_name": "cz.uhk.caravan_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828339971453-blhqvtu584ihvv3d2ps54mtvnl1t0nul.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cz.uhk.caravan_app",
+            "certificate_hash": "9e7b428bd19329c10010b309b1c2ecb0ce748d2f"
+          }
+        },
+        {
+          "client_id": "828339971453-t7u3au1lb2fl4baen11o10q0hpd6bjpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpLVb1AjBlO_s1wkoBbzFXZOJT-NIf450"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828339971453-t7u3au1lb2fl4baen11o10q0hpd6bjpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
